@@ -7,5 +7,5 @@ Because, this library contents simple and useful .py modules only
 
 # Multithreading and coroutines
 
-GeventThreadController - allows run pool greenlets into the threads
+GeventThreadController - allows run pool of greenlets into the threads
 

@@ -6,6 +6,8 @@ Many libraries are often overloaded with unused components. It increases the und
 Because, this library contents simple and useful .py modules only
 
 ## Multithreading and coroutines
-
 - **GeventThreadController** - allows run pool of greenlets into the threads
 
+
+## Network and infrastructure
+- **MultiPinger** - multithreading ping
